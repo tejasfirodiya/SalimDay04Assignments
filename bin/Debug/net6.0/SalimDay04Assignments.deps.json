@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SalimDay04Assignments/1.0.0": {
+        "runtime": {
+          "SalimDay04Assignments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalimDay04Assignments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

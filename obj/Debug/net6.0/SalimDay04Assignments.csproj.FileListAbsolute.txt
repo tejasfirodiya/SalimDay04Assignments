@@ -1,0 +1,15 @@
+D:\SalimDay04Assignments\bin\Debug\net6.0\SalimDay04Assignments.exe
+D:\SalimDay04Assignments\bin\Debug\net6.0\SalimDay04Assignments.deps.json
+D:\SalimDay04Assignments\bin\Debug\net6.0\SalimDay04Assignments.runtimeconfig.json
+D:\SalimDay04Assignments\bin\Debug\net6.0\SalimDay04Assignments.dll
+D:\SalimDay04Assignments\bin\Debug\net6.0\SalimDay04Assignments.pdb
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.csproj.AssemblyReference.cache
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.AssemblyInfoInputs.cache
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.AssemblyInfo.cs
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.csproj.CoreCompileInputs.cache
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.dll
+D:\SalimDay04Assignments\obj\Debug\net6.0\refint\SalimDay04Assignments.dll
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.pdb
+D:\SalimDay04Assignments\obj\Debug\net6.0\SalimDay04Assignments.genruntimeconfig.cache
+D:\SalimDay04Assignments\obj\Debug\net6.0\ref\SalimDay04Assignments.dll
